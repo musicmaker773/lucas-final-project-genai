@@ -1,2 +1,3 @@
 streamlit==1.61.1
 openai==3.22.1
+st_chat_message
